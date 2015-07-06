@@ -1,0 +1,102 @@
+﻿html {
+    background-color: gray;
+}
+
+.main{
+	height: 1300px;
+}
+.outer{
+	display: block;
+	height:90%
+}
+
+.firstblock {
+    text-align: left;
+    height: 27%;
+    background-color: white;
+    margin: 40px 40px 10px 40px;
+}
+.secondblock {
+    text-align: left;
+    height: 65%;
+    background-color: white;
+    margin: 40px 40px 10px 40px;
+    height: 50%;
+}
+
+.footer{
+	display: block;
+	background-color:black;
+	height: 7%;
+	width: 101%;
+	margin-top: 100px;
+	float: left;
+}
+
+
+.mybuttons {
+    width: 20%;
+    height: 15%;
+    margin-bottom: 0px;
+    display: inline-block;
+    text-align: center;
+    font-size: 250%;
+
+}
+
+.redclick {
+    background-color: red;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.blueclick {
+    background-color: blue;
+}
+
+.mytext{
+	font-size:x-large;
+	font-family: Helvetica, sans-serif;
+	font-weight:100;
+	line-height:35px;
+	background-color:white;
+	text-align: left;
+	
+}
+.first-text {
+	margin: 50px 50px 50px 50px;
+	padding-top: 4%;
+	}
+.second-text {
+	margin: 10px 50px 50px 50px;
+	padding-bottom: 50px;
+	}
+	
+	
+.first-image{
+	margin:0 auto;
+	width: 100%;
+	background-color: white;
+	text-align:center;
+}
+
+.link-text{
+	font-size:xx-large;
+	margin-top: 2%;
+}
+.apple{
+	float:right;
+	margin-right: 60px;
+	display: inline-block;
+	color:white;
+}
+
+.Google{
+	float:right;
+	margin-right: 40px;
+	display: inline-block;
+	color:white;
+	padding-right: 2%;
+}
+
+

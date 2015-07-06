@@ -1,0 +1,61 @@
+.outer {
+
+}
+
+.firstblock {
+    width: calc(33.33% - 10px);
+    height: 20%;
+    background-color: red;
+    margin-right: 10px;
+
+}
+.block {
+    display: inline-block;
+    float: left;
+
+}
+.secondblock {
+    width: calc(33.33% - 10px);
+    height: 20%;
+    background-color: blue;
+    margin-right: 10px;
+}
+
+.thirdblock {
+    width: 33.3%;
+    height: 20%;
+    background-color: gray;
+}
+
+.fourthblock {
+    width: 33%;
+    height: 50%;
+    background-color: red;
+}
+
+.fifthblock {
+    width: 66%;
+    height: 50%;
+    background-color: blue;
+}
+
+.sixthblock {
+    width: 66%;
+    height: 20%;
+    background-color: blue;
+    margin-top: 20px;
+}
+
+.seventhblock {
+    width: 33%;
+    height: 20%;
+    background-color: red;
+    margin-top: 20px;
+}
+
+.inside-block {
+    height: 100%;
+    margin: 0 auto;
+    width: 50%;
+    background-color: gray;
+}
